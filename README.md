@@ -1,4 +1,5 @@
 Financial Market Data Pipeline & Risk Analytics
+
 An end-to-end personal project that collects historical stock market data, validates and stores it, performs SQL-based analysis, and calculates historical return and risk metrics using Python.
 Overview
 This project demonstrates a reproducible analytical workflow for daily market data:
@@ -144,6 +145,8 @@ Possible future improvements
 - Schedule ingestion and reporting.
 - Add rolling volatility, benchmark-relative performance, and portfolio-level metrics.
 - Evaluate PostgreSQL for larger datasets and concurrent access.
+
+  
 Disclaimer
 This repository is for educational and portfolio-demonstration purposes only. It does not provide financial advice, trading signals, or investment recommendations. Historical performance does not guarantee future results.
 Data source
