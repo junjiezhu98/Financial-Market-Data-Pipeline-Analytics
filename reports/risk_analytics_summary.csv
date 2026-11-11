@@ -1,0 +1,6 @@
+ticker,annualised_volatility_pct,cumulative_return_pct,max_drawdown_pct,min,max
+GOOGL,31.13,125.37,-30.62,-0.13,0.1
+MSFT,26.57,53.37,-34.5,-0.1,0.16
+MU,66.19,905.11,-57.63,-0.17,0.19
+NVDA,47.16,274.21,-36.88,-0.17,0.19
+QBTS,132.5,1491.29,-79.79,-0.36,0.51

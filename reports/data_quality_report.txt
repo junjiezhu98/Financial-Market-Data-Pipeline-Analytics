@@ -1,0 +1,29 @@
+FINANCIAL MARKET DATA QUALITY REPORT
+=============================================
+
+1. Missing values:
+date            0
+open            0
+high            0
+low             0
+close           0
+volume          0
+dividends       0
+stock_splits    0
+ticker          0
+dtype: int64
+
+2. Duplicate records: 0
+
+3. Records with non-positive prices: 0
+
+4. Records with negative volume: 0
+
+5. Records with inconsistent price ranges: 0
+
+6. Potential missing trading dates:
+GOOGL: 0 potential gaps
+MSFT: 0 potential gaps
+MU: 0 potential gaps
+NVDA: 0 potential gaps
+QBTS: 0 potential gaps
